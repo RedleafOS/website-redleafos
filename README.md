@@ -1,4 +1,4 @@
-# Hello World
+# RedleafOS, a Debian-derived distribution optimized for Xiangshan RISC-V IP
 
 ## Intro
 
