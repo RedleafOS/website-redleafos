@@ -1,3 +1,3 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 title: Redleaf OS
-description: a Debian-derived distribution optimized for Xiangshan RISC-V IP
+description: A Debian-derived distribution optimized for Xiangshan RISC-V IP
